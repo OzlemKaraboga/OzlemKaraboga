@@ -7,9 +7,6 @@ Transitioning to a new career in web development from an engineering background.
 ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ozlem-karaboga/)  
 
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzlemKaraboga&layout=compact)](https://github.com/OzlemKaraboga/)
-
----
 
 ### Technical Skills
 
@@ -28,7 +25,11 @@ Transitioning to a new career in web development from an engineering background.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 
+---
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzlemKaraboga&layout=compact)](https://github.com/OzlemKaraboga/)
+
+---
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
