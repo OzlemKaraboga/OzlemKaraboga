@@ -1,6 +1,6 @@
-### Ozlem KARABOGA - Full Stack Web Developer
+## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 ---
-### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+### I'm Ozlem KARABOGA from Turkey
 Transitioning to a new career in web development from an engineering background. Enthusiast of reading books, cycling, and nature walks. Excited to embrace new challenges, learn, and contribute meaningfully in the web development field.
 
 ---
