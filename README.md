@@ -29,7 +29,7 @@ Transitioning to a new career in web development from an engineering background.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzlemKaraboga&layout=compact)](https://github.com/OzlemKaraboga/)
 
----
+
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
